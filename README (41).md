@@ -53,7 +53,7 @@ The notebook calculates the following metrics:
 Actual metric values depend on the dataset and the execution results.
 
 ## How to Run
-1. Open `ML_Task8.ipynb` in Google Colab or Jupyter Notebook.
+1. Open `Task8.ipynb` in Google Colab or Jupyter Notebook.
 2. Upload `creditcard.csv` to the expected location, or update the file path in the notebook.
 3. Install the required libraries if they are not already available:
    ```bash
@@ -73,5 +73,3 @@ Actual metric values depend on the dataset and the execution results.
 ## Conclusion
 This project demonstrates how a Random Forest Classifier can be used for credit card fraud detection. It explores the dataset, trains a model, evaluates its predictions, and visualizes useful results. The model's performance should be assessed carefully because fraudulent transactions are typically much less common than genuine transactions.
 
-## Disclaimer
-This is an educational machine learning project. Its predictions should not be treated as a definitive decision for real financial transactions.
